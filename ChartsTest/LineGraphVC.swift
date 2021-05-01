@@ -6,8 +6,9 @@
 //
 
 import UIKit
+import Charts
 
-class ViewController: UIViewController {
+class LineGraphVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
